@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <link href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/shift.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css">
+    
+    <link href="../main.css" rel="stylesheet" type="text/css">
+    
+  </head>
+
+  <body>
+    <div class="nav">
+      <div class="container">
+        <ul class="pull-left">
+          <li><a href="../index.html">Continuation Home</a></li>
+          <li><a href="studentList.html">Student List</a></li>
+        </ul>
+        <ul class="pull-right">
+          <li><a href="www.centennialschool.net">Centennial Home</a></li>
+          <li><a href="http://en.wikipedia.org/wiki/San_Luis,_Colorado">Home Town</a></li>
+          <li><a href="#">Mr. Apodaca's Homepage</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="jumbotron">
+      <div class="container">
+      <div class="mugshot">
+          <img src="http://1.bp.blogspot.com/-metPBQN2Mxc/T8UJ_oCDN9I/AAAAAAAABwE/hMjjcqPT9tY/s1600/baby+monkey.jpg" height = 200px>
+        </div>
+	  
+	  
+        <h1>Ayla Cisneros</h1>
+        <p>When I graduate I want to go to college for designing.</p>
+      
+      </div>
+    </div> 
+
+    <div class="learn-more">
+	  <div class="container">
+		<div class="row">
+	  	  <div class="col-md-4">
+			<h3> Family</h3>
+			<p>My family always supports each other.WE are strong and proud.It starts from my grandma.She always helped everyone and cared for everyone. My grandma was always strong. Everything she did she with strength. My mom,brothers,and sister are also strong. We all get it from my grandma. We all get our stubbornness from my grandpa.
+     My family was always in sports. From weightlifting to wrestling. My mom started the weight lifting. My brother were the ones that did wrestling.  Most of my family did wrestling. Were always cheering for each other.Everyone in my family is proud to be part of it. No matter what we are always there with each other. I love my family just like they love me. </p>
+			
+		  </div>
+		  <div class="col-md-4">
+			<h3>Interest</h3>
+			<p>Everything I do always gets the best of me. I like doing sports and little hobbies. The main sports I do are volleyball,track,and wrestling. There the main sports I really focus on. Theres nothing else that I would focus on more than them.
+               My little hobbies are like art,working out,and learning new things. There's more things that I do. These are some of the main ones. They keep me Active and moving. Art helps me concentrate. I have to do everything almost perfect. I do these things all the time and everyday.</p>
+			
+	      </div>
+		  <div class="col-md-4">
+			<h3>Success path</h3>
+			<p>My main goal is to give it my all.I will try my best for everything. If I don't get it I was keep working till I get it.I think if  I try really hard I could do anything.
+I will always try my hardest even if I can't get it.I believe if you don't stop and you get better every time it will be easy.Nothing is impossible.Everyone should try more often.If you never quit you could get where you want to be.Everyone could be successful if they try.This is why I give it my all.I think i could do better than what I am now.</p>
+              
+		  </div>
+	    </div>
+	  </div>
+	</div>
+  </body>
+</html>
