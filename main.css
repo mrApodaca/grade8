@@ -71,7 +71,7 @@
   float: center;
 }
 
-.col-md-4 a:link, a:visited {
+.col-md-4 .ul .li a:link, a:visited {
   display: block;
   width: 240px;
   font-weight:bold;
