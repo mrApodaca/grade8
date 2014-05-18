@@ -1,0 +1,73 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  position: relative;
+  background-image: url(http://bonds-gallery.com/wp-content/uploads/2014/04/space-wallpaper-blue-96107.jpg);
+  height: 300px;
+}
+
+.jumbotron .container {
+  position: relative;
+  bottom:0px;
+}
+
+.jumbotron .mugshot {
+  float: right;
+  margin: 20px;
+  position: relative;
+  bottom: 20px;
+  right: 0px;
+  padding:1px;
+  border:1px solid #021a40;
+  background-color:#silver;
+}
+
+.jumbotron h1 {
+  color: #ffffff;
+  text-shadow: 0px 0px 5px #000000;
+  font-size: 60px;  
+  font-family: Fantisy;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  color: #ffffff;
+  text-wrap:normal;
+  text-shadow: 0px 0px 3px #000000;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+
+col-md-4 {
+  background-image:	 url(http://catalogorigin.wlimg.com/1/1799768/full-images/gold-bars-1027321.jpg);
+}
+
+.col-md-4 ul {
+  font-size: 24px;
+  list-style-type:  square;
+}
