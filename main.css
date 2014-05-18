@@ -69,10 +69,14 @@ col-md-4 {
   font-size: 24px;
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 10;
 }
 
 .col-md-4 a {
   display: block;
-  width: 60px;
+  width: 240px;
+}
+
+.col-md-4 li {
+  float: left;
 }
