@@ -61,9 +61,6 @@
   color: #00b0ff;
 }
 
-col-md-4 {
-  background-image:	 url(http://catalogorigin.wlimg.com/1/1799768/full-images/gold-bars-1027321.jpg);
-}
 
 .col-md-4 ul {
   font-size: 24px;
@@ -71,6 +68,7 @@ col-md-4 {
   margin: 0;
   padding: 10;
   overflow:hidden;
+  float: center;
 }
 
 .col-md-4 a:link, a:visited {
