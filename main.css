@@ -66,7 +66,7 @@ col-md-4 {
 }
 
 .col-md-4 ul {
-  font-size: 36px;
+  font-size: 24px;
   list-style-type: none;
   margin: 0;
   padding: 10;
@@ -75,20 +75,20 @@ col-md-4 {
 
 .col-md-4 a:link, a:visited {
   display: block;
-  width: 400px;
+  width: 800px;
   font-weight:bold;
   color:#FFFFFF;
   background-color:#666666;
   border-style: solid;
   border-width: 5px;
   text-align:center;
-  padding:4px;
+  padding:8px;
   text-decoration:none;
   text-transform:uppercase;
 }
 
 .col-md-4 li {
-  float: left;
+  float: center;
 }
 
 
