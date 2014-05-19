@@ -10,18 +10,18 @@
   display: inline;
 }
 
-.jumbotron {
+.picture {
   position: relative;
   background-image: url(https://dl.dropboxusercontent.com/u/15432916/8Continuation_2014/pics/bannerImg.png);
   height: 300px;
 }
 
-.jumbotron .container {
+.picture .container {
   position: relative;
   bottom:0px;
 }
 
-.jumbotron .mugshot {
+.picture .mugshot {
   float: right;
   margin: 20px;
   position: relative;
@@ -30,14 +30,14 @@
   padding:1px;
 }
 
-.jumbotron h1 {
+.picture h1 {
   color: #ffffff;
   text-shadow: 0px 0px 5px #000000;
   font-size: 60px;  
   font-family: Fantasy;
 }
 
-.jumbotron p {
+.picture p {
   color: #ffffff;
   text-wrap:normal;
   text-shadow: 0px 0px 3px #000000;
