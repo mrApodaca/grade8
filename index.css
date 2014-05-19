@@ -12,22 +12,14 @@
 
 .picture {
   position: relative;
-  background-image: url(https://dl.dropboxusercontent.com/u/15432916/8Continuation_2014/pics/bannerImg.png);
+  background-image: url();
   height: 300px;
 }
 
 .picture .container {
   position: relative;
+  float: center;
   bottom:0px;
-}
-
-.picture .mugshot {
-  float: right;
-  margin: 20px;
-  position: relative;
-  bottom: 20px;
-  right: 0px;
-  padding:1px;
 }
 
 .picture h1 {
