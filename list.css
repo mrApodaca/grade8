@@ -13,6 +13,7 @@
 .jumbotron {
   position: relative;
  /** background-image: url(https://dl.dropboxusercontent.com/u/15432916/8Continuation_2014/pics/bannerImg.png); */
+  background-color: 666666;
   height: 200px;
 }
 
