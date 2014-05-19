@@ -12,10 +12,13 @@
 
 .picture {
   position: relative;
-  align: middle;
-  float: center;
   background-image: url();
   height: 850px;
+}
+
+.picture img {
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .picture .container {
