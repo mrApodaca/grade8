@@ -45,3 +45,10 @@
   font-size: 25px;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.stuff {
+  text-align:left;
+}
+.go-to-list {
+  text-align:center;
+}
